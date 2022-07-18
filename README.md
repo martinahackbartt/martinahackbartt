@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @martinahackbartt, Biology student. 
-- 👀 I’m interested in molecular biology, genomics, bioinformatics
-- 🌱 I’m currently learning bioinformatics, clinical genomics, data analysis with Python and Rstudio
+- 👋 Hi, I’m @martinahackbartt, Biology + Bioinformatics student learning Data Science. 
+- 👀 I’m interested in AI, data, genomics, bioinformatics
+- 📚 I’m currently learning Python, Rstudio, SQL.  
 - 📫 How to reach me https://www.linkedin.com/in/martina-hackbartt/
 
 
