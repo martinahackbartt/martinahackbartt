@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinahackbartt, Computer Engineering student. 
-- 👀 I’m interested in AI, data, bioinformatics
-- 📚 I’m currently learning Python, Data Science, Machine Learning.   
+- 👀 I’m interested in AI, data, tech bio.
+- 📚 I’m currently learning Python, Data Science, Machine Learning, Cloud.   
 - 📫 How to reach me https://www.linkedin.com/in/martina-hackbartt/
 
 
