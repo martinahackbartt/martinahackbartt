@@ -1,4 +1,4 @@
-- 👋💗 Hi, I’m @martinahackbartt
+👋💗 Hi, I’m @martinahackbartt
 
 <!---
 martinahackbartt/martinahackbartt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
